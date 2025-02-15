@@ -1,5 +1,5 @@
 # Hi👋 I'm Rakesh Kumar Parida 
-🚀 Passionate about building scalable, efficient, and impactful software solutions.  <br>💻 Skilled in Java, MySQL, Servlets, JSP, and full-stack web development.  <br>🔍 Currently diving deep into front-end development and honing my DSA skills.  <br>🎯 Open to opportunities that challenge me and help me grow as a developer.  <br><br>📫 How to reach me: rakeshparida2801@gmail.com | https://www.linkedin.com/in/rakesh-kumar-parida-523b55308/  <br>📂 Check out my projects below 👇
+🚀 Passionate about building scalable, efficient, and impactful software solutions.  <br><br>💻 Skilled in Java, MySQL, Servlets, JSP, and full-stack web development.  <br><br>🔍 Currently diving deep into front-end development and honing my DSA skills.  <br><br>🎯 Open to opportunities that challenge me and help me grow as a developer.  <br><br>📫 How to reach me: rakeshparida2801@gmail.com | https://www.linkedin.com/in/rakesh-kumar-parida-523b55308/  <br><br>📂 Check out my projects below 👇
 
 
 ## 🌐 Socials:
