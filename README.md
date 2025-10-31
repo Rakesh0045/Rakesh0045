@@ -31,7 +31,7 @@
 
 - 🎓 I'm a Computer Science Engineering student passionate about building **efficient, scalable web applications**.
 - 💻 My core skills include backend development with **Java**, **Spring Boot**, & related technologies.
-- 🌱 I have hands-on experience with **REST APIs**, various databases (**MySQL, PostgreSQL**), & deployment tools like **Docker** and **Render**.
+- 🌱 I have hands-on experience with **REST APIs**, various databases (**MySQL, PostgreSQL**), & deployment tools like **Docker** & **Render**.
 - 🔍 I have a **solid foundation in Data Structures & Algorithms (DSA)**
 - ⚛️ I am actively **exploring advanced frontend technologies** like **React** to excel in a **full-stack role**.
 - 💡 I love turning ideas into real-world projects and am always eager to learn new technologies.
